@@ -1,3 +1,5 @@
+function work(){};
+
 
 let davor = document.getElementById("davor");
 let hinten = document.getElementById("hinten");
