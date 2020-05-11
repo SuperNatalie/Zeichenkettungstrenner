@@ -22,8 +22,6 @@ function trennen(){
 
 
 
-
-
 function löschen(){
     zkTrennung.value = "";
     zkInput.value = "";
